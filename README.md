@@ -1,4 +1,4 @@
-# NY Times Top Stories
+# NYT Top Stories
 
 #### By Kyle Miller
 
